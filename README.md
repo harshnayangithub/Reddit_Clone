@@ -26,7 +26,8 @@ Follow these steps to install and run the Reddit clone app on your local machine
 8) Deploy the app to Kubernetes using EC-2: `kubectl apply -f deployment.yaml`
 9) ![EC-2 Instance](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/ffc09193-1e0f-4bf3-b8fb-b1353906d2c7)
 10) Deploy the Service for deployment to Kubernetes: `kubectl apply -f service.yaml`
-11) Expose the app as a Kubernetes service: `kubectl expose deployment reddit-deployment --type=NodePort --port=5000`
+11) ![Deployed](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/1df194fb-a736-4b47-a66c-ea231f77560d)
+12) Expose the app as a Kubernetes service: `kubectl expose deployment reddit-deployment --type=NodePort --port=5000`
 
 This is how it looks after deployment
 ![Deployed App](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/cc57231e-7f13-4953-8ae0-2ed120b1f348)
