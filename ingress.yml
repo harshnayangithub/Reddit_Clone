@@ -7,20 +7,5 @@ spec:
   - host: "domain.com"
     http:
       paths:
-      - pathType: Prefix
-        path: "/test"
-        backend:
-          service:
-            name: reddit-clone-service
-            port:
-              number: 3000
-  - host: "*.domain.com"
-    http:
-      paths:
-      - pathType: Prefix
-        path: "/test"
-        backend:
-          service:
-            name: reddit-clone-service
-            port:
-              number: 3000
+     // Specs required for the ingress file will do later on
+  
