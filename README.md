@@ -42,7 +42,7 @@ Follow these steps to install and run the Reddit clone app on your local machine
 This is how it looks after deployment
 ![Deployed App](https://github.com/harshnayangithub/Skin_O_Care/assets/126700987/cc57231e-7f13-4953-8ae0-2ed120b1f348)
 My deployment URL on EC-2 looks something like this (http://3.108.194.17:3000/)
-I have used two different instance one for the CI and other for the Deployment.
+I have used two different instances one for the CI and other for the Deployment.
 
 Feel free to open any issue regarding the installation steps mentioned.
 Contribute to this project by opening a Pull Request.
