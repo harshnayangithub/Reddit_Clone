@@ -1,10 +1,20 @@
-# Reddit Clone App on Kubernetes
-This project demonstrates how to deploy a Reddit clone app on Kubernetes and expose it to the world using Minikube as the cluster.
-Below is an overview of the architecture of this Reddit Clone App running on Kubernetes.
+### Reddit Clone App
+This project aims to create a Reddit clone using Next.js for the frontend and Firebase for authentication. The app is deployed on Kubernetes using Minikube as the cluster, with the help of an EC2 instance.
 ![Structure](https://github.com/harshnayangithub/Reddit_Clone/assets/126700987/240762ca-4211-43c7-bbb5-2a0bb1cac94d)
 
+
+## Technologies Used
+Frontend: Next.js
+Authentication: Firebase
+Deployment: Kubernetes (Minikube, EC2 instance)
+
+
+## Overview
+The Reddit clone app replicates the basic functionality of Reddit, allowing users to create posts, comment on posts, and upvote/downvote posts and comments. Firebase Authentication is used to manage user authentication, and Kubernetes is used for deployment, ensuring scalability and reliability with the help of an EC2 instance.
+
+
 ## Prerequisites
-Before you begin, you should have the following tools installed on your local machine? EC-2 Instance: 
+Before you begin, you should have the following tools installed on your local machine/EC-2 Instance: 
 
 - Docker
 - Minikube cluster ( Running )
