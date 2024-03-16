@@ -34,6 +34,7 @@ This is how it looks after deployment
 My deployment URL on EC-2 looks something like this (http://3.108.194.17:3000/)
 I have used two different instance one for the CI and other for the Deployment.
 
-
+Feel free to open any issue regarding the installation steps mentioned.
+Contribute to this project by opening a Pull Request.
 
 
