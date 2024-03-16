@@ -14,7 +14,7 @@ Before you begin, you should have the following tools installed on your local ma
 
 
 ## Installation
-Follow these steps to install and run the Reddit clone app on your local machine:
+Follow these steps to install and run the Reddit clone app on your local machine/EC-2 Instance:
 
 1) Clone this repository to your local machine: `git clone https://github.com/harshnayangithub/Reddit_Clone.git`
 2) Navigate to the project directory: `cd Reddit_Clone`
