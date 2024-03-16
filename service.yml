@@ -9,7 +9,7 @@ spec:
 
     app: reddit-clone
   ports:
-    # Port Map
+    # Port Mapping
   - port: 3000
     targetPort: 3000
     protocol: TCP
