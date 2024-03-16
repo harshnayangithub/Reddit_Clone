@@ -5,7 +5,7 @@ import { getStorage } from "firebase/storage";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBqe95nCUomWkU9PnZT_OlV_NCAZnTmyz0",
+  apiKey: "AIzaSyBqe95nCUomWkU9PnZT_OlV_NCAZn",
   authDomain: "reddit-clone-r.firebaseapp.com",
   projectId: "reddit-clone-r",
   storageBucket: "redditclone.appspot.com",
